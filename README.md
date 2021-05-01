@@ -21,5 +21,5 @@ The summary statistics for June and December aren't drastically different. If we
 
 However, we should also take precipitation into account. If we add precipitation into our original queries, the average rainfall for December is considerably higher than June. The average rain appears to be skewed, considering that December's median rainfall is much lower than the mean. Furthermore, the median and upper quartile for June are similar to December's. Overall, the weather is consistent in Oahu. The perfect location for Surf n' Shake if we are only considering weather conditions. 
 <p align="center">
-   <img src = "Resources/june_prcp.png" width=470> <img src = "Resources/dec_prcp.png" width=470>
+   <img src = "Resources/june_prcp.png" width=460> <img src = "Resources/dec_prcp.png" width=460>
 </p>
