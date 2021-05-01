@@ -17,3 +17,9 @@ The following project involves using SQLAlchemy in conjunction with an SQLite da
 - The minimum temperature in December is almost 10 degrees lower
 - The total count of temperature observations in December is lower by approximately 200
 ## Summary
+The summary statistics for June and December aren't drastically different. If we took a quick glance over the tables, we probably wouldn't notice a difference! The temperature appears to be in the 70s year-round, considering half the data points for each month we analyzed are above 70 degrees. The lowest quartile for December is 69 degrees, which means only 25 percent of the data recorded in December dips below the 70s. A quick google search shows that the winter months for Hawaii are from November to April, and the summer months are from May to October. If we consider these results in our analysis, it appears that Oahu should have a consistent temperature throughout the year with only a few dates below the 70s. 
+
+However, we should also take precipitation into account. If we add precipitation into our original queries, the average rainfall for December is considerably higher than June. The average rain appears to be skewed, considering that December's median rainfall is much lower than the mean. Furthermore, the median and upper quartile for June are similar to December's. Overall, the weather is consistent in Oahu. The perfect location for Surf n' Shake if we are only considering weather conditions. 
+<p align="center">
+   <img src = "Resources/june_prcp.png" width=470> <img src = "Resources/dec_prcp.png" width=470>
+</p>
