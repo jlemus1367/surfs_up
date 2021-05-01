@@ -9,5 +9,11 @@ The following project involves using SQLAlchemy in conjunction with an SQLite da
 - SQLAlchemy
 
 ## Results
+<p align="center">
+   <img src = "Resources/sidexside.png" width=320> 
+</p>
 
+- The average temperature is lower in December, and the data points for that month are more spread out
+- The minimum temperature in December is almost 10 degrees lower
+- The total count of temperature observations in December lower by approximately 200
 ## Summary
