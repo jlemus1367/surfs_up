@@ -15,5 +15,5 @@ The following project involves using SQLAlchemy in conjunction with an SQLite da
 
 - The average temperature is lower in December, and the data points for that month are more spread out
 - The minimum temperature in December is almost 10 degrees lower
-- The total count of temperature observations in December lower by approximately 200
+- The total count of temperature observations in December is lower by approximately 200
 ## Summary
